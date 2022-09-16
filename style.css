@@ -101,22 +101,22 @@ main {
 .card:hover {
     transform: translateY(-5px);
     cursor: pointer;
-  }
-   
-  .image {
-    /* float: center; 
+}
+
+/* .image { 
+    float: center; 
     max-width: auto;
-    max-height: auto;*/
-  }
+    max-height: auto;
+} */
 
-  .orange {
+.orange {
     border: 3px solid orange;
-  }
+}
 
-  .blue {
+.blue {
     border: 3px solid blue;
-  }
+}
 
-  .yellow  {
+.yellow {
     border: 3px solid #fbff0077;
-  }
+}
